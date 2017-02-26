@@ -1,0 +1,44 @@
+myint = 123.456
+print(myint)
+myfloat = 2.6
+print(myfloat)
+#this is it for ting 1
+Abdulrheem = 13
+Ahmad = 20
+AbdulrheemAhmad = Abdulrheem + + Ahmad
+print(AbdulrheemAhmad)
+#thing two part 1
+#EXample 1
+so = "soooooooooooooo"
+cute = "cuuuuuuuuuuute"
+socute = so + " " + cute
+print(socute)
+#EXample 2
+a = "Toha"
+b= "ALSbyani"
+ab = a + " " + b
+print(ab)
+#thing two part two
+x, z, y = 1, 2, 3
+print(x, z, y)
+#thing two part three and that's it for thing two
+hi = 12.5
+if hi == 12.5:
+    print("hi is: %s " % hi) and hi == 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
